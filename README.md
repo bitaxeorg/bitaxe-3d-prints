@@ -17,6 +17,7 @@
 | Project | Preview | Description | Author |
 |---------|---------|-------------|---------|
 | [Supra / Gamma stand](./powermining%20-%20Bitaxe%20Supra%20%3A%20Gamma%20stand/) | <img src="./powermining%20-%20Bitaxe%20Supra%20%3A%20Gamma%20stand/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Stand for Bitaxe | [PowerMining](https://x.com/PowerMiningFarm) |
+| [Minimalist Stand](./d-central%20-%20Bitaxe%20Minimalist%20Stand/) | <img src="./d-central%20-%20Bitaxe%20Minimalist%20Stand/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Stand for Bitaxe | [d-central](https://x.com/DCentralTech) |
 
 ## Other
 
