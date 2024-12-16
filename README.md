@@ -18,6 +18,7 @@
 |---------|---------|-------------|---------|
 | [Supra / Gamma stand](./cases_stands/powermining%20-%20Bitaxe%20Supra%20%3A%20Gamma%20stand/) | <img src="./cases_stands/powermining%20-%20Bitaxe%20Supra%20%3A%20Gamma%20stand/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Stand for Bitaxe | [PowerMining](https://x.com/PowerMiningFarm) |
 | [Minimalist Stand](./cases_stands/d-central%20-%20Bitaxe%20Minimalist%20Stand/) | <img src="./cases_stands/d-central%20-%20Bitaxe%20Minimalist%20Stand/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Stand for Bitaxe | [d-central](https://x.com/DCentralTech) |
+| [AxeSheath Enclosure for Bitaxe](./cases_stands/altair%20-%20AxeSheath%20Enclosure%20for%20Bitaxe/) | <img src="./cases_stands/altair%20-%20AxeSheath%20Enclosure%20for%20Bitaxe/preview.png" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Enclosure for Bitaxe | [Altair](https://x.com/altair_tech) |
 
 ## Other
 
