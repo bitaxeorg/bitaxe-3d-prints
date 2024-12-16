@@ -10,6 +10,13 @@
 | [40x40 cooler adapter](./OC'axe%20-%20Bitaxe%20adapter%20for%2040x40%20cooler/) | <img src="./OC'axe%20-%20Bitaxe%20adapter%20for%2040x40%20cooler/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Adapter for 40x40 cooler | [trendkraft](https://x.com/trendkraft) |
 | [ICE Cooler Tower Adapter](./freezyAndHaze%20-%20BitAxe%20Socket%20ICE%20Cooler%20Tower/) | <img src="./freezyAndHaze%20-%20BitAxe%20Socket%20ICE%20Cooler%20Tower/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Adapter for Bitaxe ICE Cooler Tower | freezyAndHaze |
 | [Argon THRML 60 Socket](./StonyCow%20-%20Bitaxe%20Argon%20THRML%2060%20Socket/) | <img src="./StonyCow%20-%20Bitaxe%20Argon%20THRML%2060%20Socket/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Adapter for Bitaxe Argon THRML 60 | StonyCow |
+| [Noctua Argon THRML 60 Fan Adapter](./StonyCow%20-%20Noctua%20Argon%20THRML%2060%20Fan%20Adapter/) | <img src="./StonyCow%20-%20Noctua%20Argon%20THRML%2060%20Fan%20Adapter/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Adapter for Bitaxe Noctua Argon THRML 60 Fan | StonyCow |
+
+## Cases / Stands
+
+| Project | Preview | Description | Author |
+|---------|---------|-------------|---------|
+| [Supra / Gamma stand](./powermining%20-%20Bitaxe%20Supra%20%3A%20Gamma%20stand/) | <img src="./powermining%20-%20Bitaxe%20Supra%20%3A%20Gamma%20stand/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Stand for Bitaxe | [PowerMining](https://x.com/PowerMiningFarm) |
 
 ## Other
 
