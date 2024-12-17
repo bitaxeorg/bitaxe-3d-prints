@@ -11,6 +11,7 @@
 | [ICE Cooler Tower Adapter](./heatsinks/freezyAndHaze%20-%20BitAxe%20Socket%20ICE%20Cooler%20Tower/) | <img src="./heatsinks/freezyAndHaze%20-%20BitAxe%20Socket%20ICE%20Cooler%20Tower/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Adapter for Bitaxe ICE Cooler Tower | freezyAndHaze |
 | [Argon THRML 60 Socket](./heatsinks/StonyCow%20-%20Bitaxe%20Argon%20THRML%2060%20Socket/) | <img src="./heatsinks/StonyCow%20-%20Bitaxe%20Argon%20THRML%2060%20Socket/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Adapter for Bitaxe Argon THRML 60 | StonyCow |
 | [Noctua Argon THRML 60 Fan Adapter](./heatsinks/StonyCow%20-%20Noctua%20Argon%20THRML%2060%20Fan%20Adapter/) | <img src="./heatsinks/StonyCow%20-%20Noctua%20Argon%20THRML%2060%20Fan%20Adapter/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Adapter for Bitaxe Noctua Argon THRML 60 Fan | StonyCow |
+| [Bitaxe RPI-Icetower Mod](./heatsinks/Wingman33%20-%20Bitaxe%20RPI-Icetower%20Mod/) | <img src="./heatsinks/Wingman33%20-%20Bitaxe%20RPI-Icetower%20Mod/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Mod for Bitaxe RPI-Icetower | Wingman33 |
 
 ## Cases / Stands
 
@@ -20,6 +21,7 @@
 | [Minimalist Stand](./cases_stands/d-central%20-%20Bitaxe%20Minimalist%20Stand/) | <img src="./cases_stands/d-central%20-%20Bitaxe%20Minimalist%20Stand/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Stand for Bitaxe | [d-central](https://x.com/DCentralTech) |
 | [AxeSheath Enclosure for Bitaxe](./cases_stands/altair%20-%20AxeSheath%20Enclosure%20for%20Bitaxe/) | <img src="./cases_stands/altair%20-%20AxeSheath%20Enclosure%20for%20Bitaxe/preview.png" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Enclosure for Bitaxe | [Altair](https://x.com/altair_tech) |
 | [Bitaxe Stand with back fan](./cases_stands/chilling_bee%20-%20Bitaxe%20Stand%20with%20back%20fan/) | <img src="./cases_stands/chilling_bee%20-%20Bitaxe%20Stand%20with%20back%20fan/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Stand with back fan for Bitaxe | Chilling Bee |
+
 ## Other
 
 | Project | Preview | Description | Author |
