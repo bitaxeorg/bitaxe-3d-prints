@@ -21,7 +21,7 @@
 | [Minimalist Stand](./cases_stands/d-central%20-%20Bitaxe%20Minimalist%20Stand/) | <img src="./cases_stands/d-central%20-%20Bitaxe%20Minimalist%20Stand/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Stand for Bitaxe | [d-central](https://x.com/DCentralTech) |
 | [AxeSheath Enclosure for Bitaxe](./cases_stands/altair%20-%20AxeSheath%20Enclosure%20for%20Bitaxe/) | <img src="./cases_stands/altair%20-%20AxeSheath%20Enclosure%20for%20Bitaxe/preview.png" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Enclosure for Bitaxe | [Altair](https://x.com/altair_tech) |
 | [Bitaxe Stand with back fan](./cases_stands/chilling_bee%20-%20Bitaxe%20Stand%20with%20back%20fan/) | <img src="./cases_stands/chilling_bee%20-%20Bitaxe%20Stand%20with%20back%20fan/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Stand with back fan for Bitaxe | Chilling Bee |
-
+| [Universal Bitaxe Stand V4](./cases_stands/GoBrrr%20-%20Universal%20Bitaxe%20Stand%20V4/) | <img src="./cases_stands/GoBrrr%20-%20Universal%20Bitaxe%20Stand%20V4/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Universal Bitaxe Stand V4 | [GoBrrr](https://x.com/GoBrrr_me) |
 ## Other
 
 | Project | Preview | Description | Author |
@@ -29,3 +29,4 @@
 | [Screen Support](./other/1ZK%20-%20Screen%20Support/) | <img src="./other/1ZK%20-%20Screen%20Support/preview.png" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Support for Bitaxe display | [_1ZK_](https://x.com/_1ZK_) |
 | [Rear Fan Shroud](./other/1ZK%20-%20Rear%20Fan%20Shroud/) | <img src="./other/1ZK%20-%20Rear%20Fan%20Shroud/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Shroud for rear fan | [_1ZK_](https://x.com/_1ZK_) |
 | [Bitaxe Skadis Mount/Standoffs](./other/uKnowMister%20-%20Bitaxe%20Skadis%20Mount-Standoffs/) | <img src="./other/uKnowMister%20-%20Bitaxe%20Skadis%20Mount-Standoffs/preview.jpg" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Mount and Standoffs for Skadis | uKnowMister |
+| [Bitaxe to DIN-Rail mount](./other/GoBrrr%20-%20Bitaxe%20to%20DIN-Rail%20mount/) | <img src="./other/GoBrrr%20-%20Bitaxe%20to%20DIN-Rail%20mount/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Mount for Bitaxe to DIN-Rail | [GoBrrr](https://x.com/GoBrrr_me) |
