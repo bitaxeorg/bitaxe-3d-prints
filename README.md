@@ -23,6 +23,7 @@
 | [Bitaxe Stand with back fan](./cases_stands/chilling_bee%20-%20Bitaxe%20Stand%20with%20back%20fan/) | <img src="./cases_stands/chilling_bee%20-%20Bitaxe%20Stand%20with%20back%20fan/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Stand with back fan for Bitaxe | Chilling Bee |
 | [Universal Bitaxe Stand V4](./cases_stands/GoBrrr%20-%20Universal%20Bitaxe%20Stand%20V4/) | <img src="./cases_stands/GoBrrr%20-%20Universal%20Bitaxe%20Stand%20V4/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Universal Bitaxe Stand V4 | [GoBrrr](https://x.com/GoBrrr_me) |
 | [Bitaxe Stand and Box cooler](./cases_stands/TheKeyStonePrinter%20-%20Bitaxe%20stand%20and%20box%20cooler/) | <img src="./cases_stands/TheKeyStonePrinter%20-%20Bitaxe%20stand%20and%20box%20cooler/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Bitaxe Stand and Box cooler | TheKeyStonePrinter |
+| [Bitaxe Stand v2](./cases_stands/rul3s%20-%20Bitaxe%20Stand%20v2/) | <img src="./cases_stands/rul3s%20-%20Bitaxe%20Stand%20v2/preview.png" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Bitaxe Stand v2 | rul3s |
 
 ## Other
 
@@ -32,3 +33,4 @@
 | [Rear Fan Shroud](./other/1ZK%20-%20Rear%20Fan%20Shroud/) | <img src="./other/1ZK%20-%20Rear%20Fan%20Shroud/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Shroud for rear fan | [_1ZK_](https://x.com/_1ZK_) |
 | [Bitaxe Skadis Mount/Standoffs](./other/uKnowMister%20-%20Bitaxe%20Skadis%20Mount-Standoffs/) | <img src="./other/uKnowMister%20-%20Bitaxe%20Skadis%20Mount-Standoffs/preview.jpg" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Mount and Standoffs for Skadis | uKnowMister |
 | [Bitaxe to DIN-Rail mount](./other/GoBrrr%20-%20Bitaxe%20to%20DIN-Rail%20mount/) | <img src="./other/GoBrrr%20-%20Bitaxe%20to%20DIN-Rail%20mount/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Mount for Bitaxe to DIN-Rail | [GoBrrr](https://x.com/GoBrrr_me) |
+| [80mm Fan Adapter for Bitaxe Stand v2](./other/rul3s%20-%20Bitaxe%20Stand%20v2%2080mm%20Fan%20Adapter/) | <img src="./other/rul3s%20-%20Bitaxe%20Stand%20v2%2080mm%20Fan%20Adapter/preview.png" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | 80mm Fan Adapter for Bitaxe Stand v2 | rul3s |
