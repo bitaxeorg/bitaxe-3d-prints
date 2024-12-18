@@ -24,6 +24,7 @@
 | [Universal Bitaxe Stand V4](./cases_stands/GoBrrr%20-%20Universal%20Bitaxe%20Stand%20V4/) | <img src="./cases_stands/GoBrrr%20-%20Universal%20Bitaxe%20Stand%20V4/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Universal Bitaxe Stand V4 | [GoBrrr](https://x.com/GoBrrr_me) |
 | [Bitaxe Stand and Box cooler](./cases_stands/TheKeyStonePrinter%20-%20Bitaxe%20stand%20and%20box%20cooler/) | <img src="./cases_stands/TheKeyStonePrinter%20-%20Bitaxe%20stand%20and%20box%20cooler/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Bitaxe Stand and Box cooler | TheKeyStonePrinter |
 | [Bitaxe Stand v2](./cases_stands/rul3s%20-%20Bitaxe%20Stand%20v2/) | <img src="./cases_stands/rul3s%20-%20Bitaxe%20Stand%20v2/preview.png" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Bitaxe Stand v2 | rul3s |
+| [Bitaxe Extentable Stand](./cases_stands/SoloSatoshi%20-%20Extendable%20Stand/) | <img src="./cases_stands/SoloSatoshi%20-%20Extendable%20Stand/preview.png" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Bitaxe Extentable Stand | [SoloSatoshi](https://x.com/SoloSatoshi) |
 
 ## Other
 
