@@ -22,6 +22,8 @@
 | [AxeSheath Enclosure for Bitaxe](./cases_stands/altair%20-%20AxeSheath%20Enclosure%20for%20Bitaxe/) | <img src="./cases_stands/altair%20-%20AxeSheath%20Enclosure%20for%20Bitaxe/preview.png" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Enclosure for Bitaxe | [Altair](https://x.com/altair_tech) |
 | [Bitaxe Stand with back fan](./cases_stands/chilling_bee%20-%20Bitaxe%20Stand%20with%20back%20fan/) | <img src="./cases_stands/chilling_bee%20-%20Bitaxe%20Stand%20with%20back%20fan/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Stand with back fan for Bitaxe | Chilling Bee |
 | [Universal Bitaxe Stand V4](./cases_stands/GoBrrr%20-%20Universal%20Bitaxe%20Stand%20V4/) | <img src="./cases_stands/GoBrrr%20-%20Universal%20Bitaxe%20Stand%20V4/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Universal Bitaxe Stand V4 | [GoBrrr](https://x.com/GoBrrr_me) |
+| [Bitaxe Stand and Box cooler](./cases_stands/TheKeyStonePrinter%20-%20Bitaxe%20stand%20and%20box%20cooler/) | <img src="./cases_stands/TheKeyStonePrinter%20-%20Bitaxe%20stand%20and%20box%20cooler/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Bitaxe Stand and Box cooler | TheKeyStonePrinter |
+
 ## Other
 
 | Project | Preview | Description | Author |
