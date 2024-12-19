@@ -12,6 +12,7 @@
 | [Argon THRML 60 Socket](./heatsinks/StonyCow%20-%20Bitaxe%20Argon%20THRML%2060%20Socket/) | <img src="./heatsinks/StonyCow%20-%20Bitaxe%20Argon%20THRML%2060%20Socket/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Adapter for Bitaxe Argon THRML 60 | StonyCow |
 | [Noctua Argon THRML 60 Fan Adapter](./heatsinks/StonyCow%20-%20Noctua%20Argon%20THRML%2060%20Fan%20Adapter/) | <img src="./heatsinks/StonyCow%20-%20Noctua%20Argon%20THRML%2060%20Fan%20Adapter/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Adapter for Bitaxe Noctua Argon THRML 60 Fan | StonyCow |
 | [Bitaxe RPI-Icetower Mod](./heatsinks/Wingman33%20-%20Bitaxe%20RPI-Icetower%20Mod/) | <img src="./heatsinks/Wingman33%20-%20Bitaxe%20RPI-Icetower%20Mod/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Mod for Bitaxe RPI-Icetower | Wingman33 |
+| [Bitaxe 60mm fan brackets](./heatsinks/MrV%20-%20Bitaxe%2060mm%20fan%20brackets/) | <img src="./heatsinks/MrV%20-%20Bitaxe%2060mm%20fan%20brackets/preview.png" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | 60mm fan brackets for Bitaxe | MrV |
 
 ## Cases / Stands
 
