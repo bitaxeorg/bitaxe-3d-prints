@@ -5,7 +5,7 @@ Should be compatible with the Max, Ultra, Supra and Gamma.  One has a notch meth
 
 | Standard Mount | Notched Mount |
 |----------------|---------------|
-| <img src="./slide.png" width="300"/> |<img src="./notch.png" width="300"/> |
+| <img src="./image.png" width="300"/> |<img src="./notch.png" width="300"/> |
 
 ## Links
 
