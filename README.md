@@ -27,6 +27,8 @@
 | [Bitaxe Stand v2](./cases_stands/rul3s%20-%20Bitaxe%20Stand%20v2/) | <img src="./cases_stands/rul3s%20-%20Bitaxe%20Stand%20v2/preview.png" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Bitaxe Stand v2 | rul3s |
 | [Bitaxe Extentable Stand](./cases_stands/SoloSatoshi%20-%20Extendable%20Stand/) | <img src="./cases_stands/SoloSatoshi%20-%20Extendable%20Stand/preview.png" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Bitaxe Extentable Stand | [SoloSatoshi](https://x.com/SoloSatoshi) |
 | [Bitaxe Gamma / Supra Case](./cases_stands/Skaletor87%20-%20Bitaxe%20Gamma%20%3A%20Supra%20Case/) | <img src="./cases_stands/Skaletor87%20-%20Bitaxe%20Gamma%20%3A%20Supra%20Case/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Case for the Bitaxe Gamma or Supra | Skaletor87 |
+| [Bitaxe Gamma / Supra Case Fan Cover](./cases_stands/Skaletor87%20-%20Bitaxe%20Gamma%20%3A%20Supra%20Case%20fan%20cover/) | <img src="./cases_stands/Skaletor87%20-%20Bitaxe%20Gamma%20%3A%20Supra%20Case%20fan%20cover/preview.webp" style="width: 250px; aspect-ratio: 4/3; object-fit: cover;"> | Fan Cover for the Bitaxe Gamma or Supra | Skaletor87 |
+
 ## Other
 
 | Project | Preview | Description | Author |
